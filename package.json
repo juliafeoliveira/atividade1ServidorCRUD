@@ -1,0 +1,24 @@
+{
+  "name": "ativ1servidor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliafeoliveira/ativ1Servidor.git"
+  },
+  "author": "Júlia Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliafeoliveira/ativ1Servidor/issues"
+  },
+  "homepage": "https://github.com/juliafeoliveira/ativ1Servidor#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "config": "^3.2.3",
+    "express": "^4.17.3"
+  }
+}

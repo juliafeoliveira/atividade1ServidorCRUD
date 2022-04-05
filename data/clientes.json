@@ -1,0 +1,45 @@
+{
+    "clientes": {
+        "data": {
+            "1":
+            {
+                "id": "1",
+                "nome": "Ana",
+                "endereco":"Rua Sol",
+                "email": "anasol@email.com"
+            },
+
+            "2":
+            {
+                "id": "2",
+                "nome": "Maria",
+                "endereco":"Rua Lua",
+                "email": "marialua@email.com"
+            },
+
+            "3":
+            {
+                "id": "3",
+                "nome": "Julia",
+                "endereco":"Rua Mar",
+                "email": "juliamar@email.com"
+            },
+
+            "4":
+            {
+                "id": "4",
+                "nome": "Joao",
+                "endereco":"Rua Terra",
+                "email": "joaoterra@email.com"
+            },
+
+            "5":
+            {
+                "id": "5",
+                "nome": "Mateus",
+                "endereco":"Rua Ar",
+                "email": "mateusar@email.com"
+            }
+        }
+    }
+}
